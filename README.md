@@ -1,5 +1,6 @@
 # Wax Editor
 A  Edited Version of [Wick Editor](https://wickeditor.com)
+-- og README.md
 <h1 align="center">
   <br>
   <a href="https://editor.wickeditor.com/"><img src=".github/images/logo.svg" alt="Wick Editor" width="25%"></a>
